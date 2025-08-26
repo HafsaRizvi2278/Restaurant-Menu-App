@@ -4,7 +4,7 @@
 
 A **fully functional Online Food Ordering System** built using **PHP** with the **CodeIgniter Framework**.  
 
-This project is perfect for IT students (1st, 2nd, and final year) and simulates a **real-world food ordering experience** with essential features like admin management, customer cart, order tracking, and more.
+This project was developed as an internship task, simulating a **real-world food ordering system** with features such as admin management, customer cart, order tracking, and more.
 
 ---
 
