@@ -1,6 +1,6 @@
 # 🍽️ Restaurant-Menu-App
 
-![PHP](https://img.shields.io/badge/PHP-7.4-blue) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4-red) ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue) ![License](https://img.shields.io/badge/License-Free-green)
+![PHP](https://img.shields.io/badge/PHP-7.4-blue) ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue) ![License](https://img.shields.io/badge/License-Free-green)
 
 A **fully functional Online Food Ordering System** built using **PHP** with the **CodeIgniter Framework**.  
 
@@ -78,4 +78,4 @@ The system is divided into:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/Restaurant-Menu-App.git
+   git clone https://github.com/HafsaRizvi2278/Restaurant-Menu-App.git
